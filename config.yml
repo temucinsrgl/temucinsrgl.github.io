@@ -1,5 +1,5 @@
-baseURL: "https://selamisafa.github.io/" 
-title: Selami Safa Balik - Portfolio
+baseURL: "https://temucinsrgl.github.io/" 
+title: Temucin Sarigul - Portfolio
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -18,8 +18,8 @@ menu:
           weight: 2
 
 params:
-    description: "I am an indie Game Dev from Turkey. My games are mostly experimental and I promise all of them are on hold :)"
-    author: Selami Safa Balik
+    description: "I am a Game Designer and Level Designer, and a graduate of Istanbul Bilgi University’s Digital Game Design program."
+    author: Temucin Sarigul
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -43,8 +43,13 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Selami Safa Balik
-          subtitle: "I am an indie game developer from Turkey with a passion for experimental games. My projects explore unique mechanics and unconventional narratives—most of them are on hold, but that’s part of the fun! I studied Digital Game Design at Istanbul Bilgi University and continue to push the boundaries of interactive experiences."
+          title: Temucin Sarigul
+          subtitle: "I am Temuçin Sarıgül, a Game Designer and Level Designer, and a graduate of Istanbul Bilgi University’s Digital Game Design program. I see game design as a creative connection and a shared experience with players.
+
+What excites me most in games is the ability to spark the player’s imagination. Through the mechanics and levels I design, I aim to ensure that players not only have fun but also create their own stories. My greatest motivation lies in experimenting with new ideas, pushing boundaries, and crafting innovative experiences.
+
+Alongside my technical skills, I am strong in communication, adaptable, and highly collaborative. I enjoy working with people from different disciplines to bring a shared vision to life and to deliver unforgettable experiences to players.
+"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -59,16 +64,14 @@ params:
     socialIcons:
         - name: CV
           url: cv.pdf
-        - name: Email
-          url: mailto:selamisafa@gmail.com
+        - name: artstation
+          url: https://temucinsarigul7.artstation.com/   
         - name: itchio1
-          url: https://selamisafabalik.itch.io/
-        - name: itchio2
-          url: https://piskafir.itch.io/        
-        - name: GitHub
-          url: https://github.com/selamisafa
+          url: https://temutemu.itch.io/       
         - name: linkedin
-          url: https://www.linkedin.com/in/selami-safa-balik/
+          url: https://www.linkedin.com/in/temu%C3%A7in-sar%C4%B1g%C3%BCl-030141244/
+        - name: Email
+          url: mailto:temucin00@gmail.com
 
     assets:
         disableScrollBarStyle: true
@@ -76,7 +79,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Selami Safa Balik"
+      text: "Temucin Sarigul"
       icon: favicon.ico
       iconHeight: 18
 
