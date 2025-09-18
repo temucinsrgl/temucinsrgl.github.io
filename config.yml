@@ -43,8 +43,7 @@ params:
     profileMode:
           enabled: true
           title: Temucin Sarigul
-          subtitle: "I am Temucin Sarigul, a Game Designer and Level Designer, and a graduate of Istanbul Bilgi University's Digital Game Design program. I see game design as a creative connection and a shared experience with players. \nWhat excites me most in games is the ability to spark the player’s imagination. Through the mechanics and levels I design, I aim to ensure that players not only have fun but also create their own stories. My greatest motivation lies in experimenting with new ideas, pushing boundaries, and crafting innovative experiences.\nAlongside my technical skills, I am strong in communication, adaptable, and highly collaborative. I enjoy working with people from different disciplines to bring a shared vision to life and to deliver unforgettable experiences to players.
-"
+          subtitle: "I am Temucin Sarigul, a Game Designer and Level Designer, and a graduate of Istanbul Bilgi University's Digital Game Design program. I see game design as a creative connection and a shared experience with players. \nWhat excites me most in games is the ability to spark the player’s imagination. Through the mechanics and levels I design, I aim to ensure that players not only have fun but also create their own stories. My greatest motivation lies in experimenting with new ideas, pushing boundaries, and crafting innovative experiences.\nAlongside my technical skills, I am strong in communication, adaptable, and highly collaborative. I enjoy working with people from different disciplines to bring a shared vision to life and to deliver unforgettable experiences to players."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
