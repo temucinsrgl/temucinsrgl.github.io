@@ -1,0 +1,93 @@
+baseURL: "https://selamisafa.github.io/" 
+title: Selami Safa Balik - Portfolio
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Games
+          url: games/
+          weight: 1 
+        - name: Work Experiences
+          url: work/
+          weight: 2
+
+params:
+    description: "I am an indie Game Dev from Turkey. My games are mostly experimental and I promise all of them are on hold :)"
+    author: Selami Safa Balik
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: false
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["games","work"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Selami Safa Balik
+          subtitle: "I am an indie game developer from Turkey with a passion for experimental games. My projects explore unique mechanics and unconventional narratives—most of them are on hold, but that’s part of the fun! I studied Digital Game Design at Istanbul Bilgi University and continue to push the boundaries of interactive experiences."
+          imageUrl: "picture.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: Games
+              url: games/
+              weight: 1 
+            - name: Work Experiences
+              url: work/
+              weight: 2
+
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:selamisafa@gmail.com
+        - name: itchio1
+          url: https://selamisafabalik.itch.io/
+        - name: itchio2
+          url: https://piskafir.itch.io/        
+        - name: GitHub
+          url: https://github.com/selamisafa
+        - name: linkedin
+          url: https://www.linkedin.com/in/selami-safa-balik/
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Selami Safa Balik"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
