@@ -47,13 +47,6 @@ params:
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          buttons:
-            - name: Games
-              url: games/
-              weight: 1 
-            - name: Work Experiences
-              url: work/
-              weight: 2
 
     socialIcons:
         - name: CV
